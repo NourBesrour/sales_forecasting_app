@@ -1,0 +1,13 @@
+streamlit
+pyrebase4
+mlflow
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+tensorflow
+scikit-learn
+statsmodels
+diffprivlib
+tensorflow
